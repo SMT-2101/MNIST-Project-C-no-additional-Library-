@@ -1,4 +1,4 @@
-# A C++ MNIST Project one file only.
+# An one-file-only C++ MNIST Project.
 ## Description:
 - Detect which number is representing in a binary 40 * 40 board with each cell either 0 or 1.
 - Compressed 10000 training files as constant arrays.
